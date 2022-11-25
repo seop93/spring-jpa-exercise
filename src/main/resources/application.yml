@@ -8,7 +8,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: localhost
     username: root
-    password: password1
+    password: password
 
   jpa:
     show-sql: true
